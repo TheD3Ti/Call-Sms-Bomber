@@ -16,9 +16,8 @@ BRed='\033[1;31m'
 
 
 echo -e "${Cyan}+-------------------------------------------------------------------+${NC}"
-echo -e "${Cyan}|${NC}                      ${BGreen}[${NC}${BRed}          VDU DOS PANEL${NC}${BGreen}]${NC}                    ${Cyan}|${NC}"
+echo -e "${Cyan}|${NC}                      ${BGreen}[${NC}${BRed}          Sms PANEL${NC}${BGreen}]${NC}                    ${Cyan}|${NC}"
 echo -e "${Cyan}|${NC}                                                                   ${Cyan}|${NC}"
-echo -e "${Cyan}|${NC}                                            | ${NC}${Yellow}Coder:${NC}${BGreen} Suvadip Kar${NC}${NC} | ${NC}${Cyan}|${NC}"
 echo -e "${Cyan}|${NC}                                            | ${Yellow}Version:${NC} ${BGreen}1.0${NC}       | ${Cyan}|${NC}"
 echo -e "${Cyan}+-${NC}${Green}[ Enter Your Choice ]${Cyan}---------------------------------------------${Cyan}+${NC}"
 echo -e "${Yellow}1. ${NC}SMS bomber"
